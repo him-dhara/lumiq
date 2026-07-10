@@ -1,3 +1,5 @@
+<img src="./Main.png" width="1920" height="1080" />
+
 # Lumiq
 
 > Full brand system + Framer landing page for an AI photo enhancement product.
@@ -7,17 +9,17 @@
 
 ## Live Site
 
-📸 [Lumiq live site](https://lumiq.framer.ai/)
+[Lumiq live site](https://lumiq.framer.ai/)
 
 ---
 
 ## Links
 
-📁 [Upwork Project](https://www.upwork.com/freelancers/himdhara2002?p=2075262751384870912)
+[Upwork Project](https://www.upwork.com/freelancers/himdhara2002?p=2075262751384870912)
 
-👤 [Upwork Profile](https://www.upwork.com/freelancers/himdhara2002?mp_source=share)
+[Upwork Profile](https://www.upwork.com/freelancers/himdhara2002?mp_source=share)
 
-📖 [Full Case Study](./CASE-STUDY.md)
+[Full Case Study](./CASE-STUDY.md)
 
 ---
 
@@ -93,6 +95,6 @@ Blog Detail Page
 
 ---
 
-<img src="./BW-PNG.png" width="60" height="60" />
+<img src="./Profile Image.png" width="60" height="60" />
 
 *Designed & built by Himanshu Dhara - Framer Developer & Brand Designer - 2026*
