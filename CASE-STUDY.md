@@ -14,7 +14,7 @@ Brand voice, color system, landing page, blog, CMS - no Figma handoff, no templa
 
 The brief: make an AI tool that sounds like it was built by someone who actually knows what a RAW file is.
 
-📸 [Lumiq - Live Site](https://lumiq.framer.ai/)
+[Lumiq - Live Site](https://lumiq.framer.ai/)
 
 ---
 
@@ -266,14 +266,14 @@ And honestly?? That's the only kind of website worth building. 🙃
 
 ## Links
 
-📸 [Live Site](https://lumiq.framer.ai/)
+[Live Site](https://lumiq.framer.ai/)
 
-📁 [Upwork Project](https://www.upwork.com/freelancers/himdhara2002?p=2075262751384870912)
+[Upwork Project](https://www.upwork.com/freelancers/himdhara2002?p=2075262751384870912)
 
-👤 [Upwork Profile](https://www.upwork.com/freelancers/himdhara2002?mp_source=share)
+[Upwork Profile](https://www.upwork.com/freelancers/himdhara2002?mp_source=share)
 
 ---
 
-<img src="./BW-PNG.png" width="60" height="60" />
+<img src="./Profile Image.png" width="60" height="60" />
 
 *Designed & built by Himanshu Dhara - Framer Developer & Brand Designer - 2026*
