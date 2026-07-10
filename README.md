@@ -89,7 +89,7 @@ Blog Detail Page
 ## Built With
 
 - Framer
-- Framer CMS (Gallery, Testimonials, Blog collections)
+- Framer CMS (Blog collections)
 - Phosphor Icons
 - Google Fonts (Instrument Serif, Geist)
 
